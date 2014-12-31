@@ -1,0 +1,14 @@
+// overview description file for de_abou.bsp  (by d-o-Maxx@borgnet.de)
+
+global 
+{
+	ZOOM	1.64
+	ORIGIN	-266.25   -101.38	-553.00
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_abou.bmp"
+	HEIGHT	-553.00
+}

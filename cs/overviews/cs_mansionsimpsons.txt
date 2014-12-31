@@ -1,0 +1,14 @@
+// overview description file for cs_mansionsimpsons.bsp
+
+global 
+{
+    ZOOM    1.51
+    ORIGIN    -1984     -1376     316.50
+    ROTATED    1
+}
+
+layer 
+{
+    IMAGE    "overviews/cs_mansionsimpsons.bmp"
+    HEIGHT    -708
+}

@@ -1,0 +1,17 @@
+// map "de_aztecs_gold" (v1.0) by [POD]ILL bot (0) (R)(C) (10.12.07)usa (12.10.07)rus
+// map "de_aztecs_gold" (v1.3) by [POD]ILL bot (0) (R)(C) (11.13.07)usa (13.11.07)rus
+// map "de_aztecs_gold" (v1.4) by [POD]ILL bot (0) (R)(C) (10.24.09)usa (24.10.09)rus
+// overview description file for de_aztecs_gold.bsp
+
+global 
+{
+	ZOOM	1.52
+	ORIGIN	288 	1760	-577
+	ROTATED	1
+}
+
+layer 
+{
+	IMAGE	"overviews/de_aztecs_gold.bmp"
+	HEIGHT	-577
+}
