@@ -1,0 +1,38 @@
+// Detail texture map file for de_aztecs_gold level (v1.4) by [POD]ILL bot (0) 24.10.09(RUS) 10.24.09 (us)
+// [texture name]	[detail texture name]		[hscale]	[vscale]
+
+
+azgrss                  detail/dt_grass1                1.5             1.5
+{azcal                  detail/dt_stone4                10.0            10.0
+{azcal2                 detail/dt_stone4                10.0            10.0
+{az_wllcrack            detail/dt_stone4                10.0            10.0
+{az_wllcrack2           detail/dt_stone4                10.0            10.0
+az_archtrim01           detail/dt_stone4                1.0             10.0
+az_archtrim01b          detail/dt_stone4                1.0             10.0
+az_archway2             detail/dt_stone4                10.0            10.0
+azwallAd2moss           detail/dt_stone4                10.0            10.0
+azwallAmoss             detail/dt_stone4                10.0            10.0
+azwallBmoss             detail/dt_stone4                10.0            10.0
+AzStatA                 detail/dt_stone4                10.0            10.0
+AzStatB                 detail/dt_stone4                10.0            10.0
+AzStatC                 detail/dt_stone4                10.0            10.0
+azgroundA               detail/dt_stone4                10.0            10.0
+azgroundB               detail/dt_stone4                10.0            10.0
+azgroundd               detail/dt_stone4                10.0            10.0
+azwallad2b              detail/dt_stone4                10.0            10.0
+azwallB                 detail/dt_stone4                10.0            10.0
+azwallb2                detail/dt_stone4                10.0            10.0
+azwallBcl               detail/dt_stone4                10.0            10.0
+azwalltrim1             detail/dt_stone4                10.0            10.0
+azwalltrim2             detail/dt_stone4                10.0            2.0
+azwalltrim3             detail/dt_stone4                10.0            1.0
+azwalltrim4             detail/dt_stone4                10.0            1.0
+azwalltrim5             detail/dt_stone4                10.0            1.0
+azwalltrim5b            detail/dt_stone4                10.0            1.0
+c3a2b_reac              detail/dt_metal2                10.0            10.0
+c3a2b_reac1e            detail/dt_metal2                10.0            10.0
+cstrike_me2rstw         detail/dt_metal2                10.0            10.0
+AzDoor1                 detail/dt_wood1                 10.0            10.0
+azgrmoss                detail/dt_conc                  10.0            10.0
+AzGrnd                  detail/dt_ground2               10.0            10.0
+azwallA                 detail/dt_ground2               10.0            10.0

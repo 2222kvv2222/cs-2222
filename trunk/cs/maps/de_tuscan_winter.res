@@ -1,0 +1,15 @@
+gfx/env/dustup.tga
+gfx/env/dustrt.tga
+gfx/env/dustdn.tga
+gfx/env/dustlf.tga
+gfx/env/dustbk.tga
+gfx/env/dustft.tga
+maps/de_tuscan_winter.txt
+maps/de_tuscan_winter.res
+models/de_tuscan_winter/tuscan_shade1a.mdl
+models/de_tuscan_winter/tuscan_shade2a.mdl
+models/de_tuscan_winter/tuscan_shade3a.mdl
+models/de_tuscan_winter/tuscan_palmtree1.mdl
+models/de_tuscan_winter/tuscan_grass1a.mdl
+overviews/de_tuscan_winter.txt
+overviews/de_tuscan_winter.bmp

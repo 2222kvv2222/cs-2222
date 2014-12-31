@@ -1,0 +1,23 @@
+DE_COURTYARD - DEFUSION
+By Andy Gordon aka [-THK-]G-Man
+(thk_gman@hotmail.com)
+http://cs-editing.gamespage.com
+
+Terrorists:
+-Bomb the town bandstand or houses 
+at ct spawn.
+
+Counter-Terrorists:
+-Prevent the Terrorists from destroying
+the town centre.
+
+Storyline:
+During the previous week the towns people
+caught the leader of a notorious terrorist 
+faction living in their town. He was 
+handed over to the regional police and
+sentenced to life imprisonment. Now the 
+terriorist group want revenge on the 
+meddling towns people by destroying the 
+historical 18th century bandstand that is the 
+proud landmark of their town.

@@ -1,0 +1,14 @@
+// overview description file for awp_india_winter.bsp by Shur1k (cswar.net)
+
+global 
+{
+	ZOOM	2.67
+	ORIGIN	0 	-126.44	-320
+	ROTATED	0
+}
+
+layer 
+{
+	IMAGE	"overviews/awp_india_winter.bmp"
+	HEIGHT	-320
+}

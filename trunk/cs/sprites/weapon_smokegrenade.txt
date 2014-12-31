@@ -1,0 +1,11 @@
+10
+weapon			320 w_SG	0	90	80	20
+weapon_s		320 w_SG	0	110	80	20
+ammo			320 w_SG	0	145	24	24
+crosshair		320 crosshairs	24	0	24	24
+autoaim			320 crosshairs	0	72	24	24
+weapon			640 w_SG	0	0	170	45
+weapon_s		640 w_SG	0	45	170	45
+ammo			640 w_SG	0	146	24	24
+crosshair		640 crosshairs	24	0	24	24
+autoaim			640 crosshairs	0	72	24	24

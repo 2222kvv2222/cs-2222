@@ -1,0 +1,17 @@
+Dust Zero - Bomb/Defuse
+by Andre Alves (dark_dna@hotmail.com)
+
+Terrorists are attempting to blow up two chemical
+weapon Chemical Sediment Deposits.
+
+Counter-Terrorists: Prevent Terrorists from bombing
+chemical weapon crates.Team members must defuse
+any bombs that threaten targeted areas.
+
+Terrorists: The Terrorist carrying the C4 must 
+destroy one of the chemical weapon Sediment Deposits.
+
+Other Notes: There are 2 chemical 
+weapon Sediment Deposits in the mission.
+
+(Press FIRE to continue)
